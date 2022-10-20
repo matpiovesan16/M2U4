@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(220, 220, 220);
+}
+
+.navbar{
+    position: fixed;
+    z-index: 100;
+    width: 100%;
+}
+
+.navbar-collapse{
+    justify-content: flex-end;
+}
+
+.carousel-item img {
+    filter: blur(2px);
+    margin-top: 30px;
+}
+
+.nombres, .form-floating{
+    margin-top: 20px;
+}
+
+.formulario{
+    background-color: rgb(230, 230, 230);
+}
+
+
+.btn{
+    margin-top: 15px;
+}
+.tituloCard{
+    margin-top: 10px;
+}
+.card-group{
+    margin-top: 20px;
+}
+
+.logoB:hover{
+    cursor: pointer;
+    opacity: .5;
+}
